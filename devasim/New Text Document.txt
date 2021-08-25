@@ -1,0 +1,2 @@
+font awesome id: kamifid796@ampswipe.com pass: 05282220
+<script src="https://kit.fontawesome.com/02eb2cb286.js" crossorigin="anonymous"></script>
